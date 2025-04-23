@@ -343,6 +343,12 @@ textarea::placeholder{
     color: #bbbbbb !important;
 }
 
+/*Removing powered by medallia*/
+<style>
+  ._10o3Ogtkx0b1R7N7tOe-dr {
+    display: none !important;
+  }
+</style>
 
 /*Original CSS Link that was added in Form Settings
     https://drive.google.com/uc?export=view&id=1NprvGum3mUT2UW9iDEpJfObxL0ecn-IV
