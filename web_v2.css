@@ -200,7 +200,7 @@ md-radio-button.md-checked ._md-off{
     /* width:392px !important; */
     height:42px !important;
     box-shadow: 0px 2px 4px 0 rgba(0, 0, 0, 0.1) !important;   
-    background-color: #c22323;
+    background-color: #fc6719;
     font-family: "BOG2018Headline-Medium" !important;
     border-radius:2px !important;
 }
@@ -344,8 +344,8 @@ textarea::placeholder{
 }
 
 /*Removing powered by medallia*/
-  ._10o3Ogtkx0b1R7N7tOe-dr {
-    display: none !important;
+  ._2Tbi7lNVIs6NppPxnQXuLw{
+    display: none;
   }
 
 /*Original CSS Link that was added in Form Settings
